@@ -1,0 +1,32 @@
+/* Week 2 Activity 6
+   Style Sheet for index.html
+   Programmer: Sohail Zafar */
+header {
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    font-size: 36px;
+    color: white;
+}
+
+h2{
+    font-size: 28px;
+    color: white;
+}
+
+#picture{
+    height: 350px;
+    width: 400px;
+    margin: auto;
+    padding-top: 20px;
+    padding-right: 20px;
+}
+
+#content{
+    height: 200px;
+    width:  300px;
+    margin: auto;
+    text-align: center;
+}
